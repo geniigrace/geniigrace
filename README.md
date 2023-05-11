@@ -6,8 +6,7 @@
   <br>
   IT의 바다에서 끊임없는 항해:boat:를 통해 <i>기술적으로 성장하고 발전하는 것이 목표</i>입니다.<br>
   <b><i>그 여정을 함께해주세요!</i></b><br><br>
-    <img src="https://img.shields.io/badge/ -E4405F?style=flat&logo=Instagram&logoColor=white"/> @dev_genii<br>
-  <img src="https://img.shields.io/badge/ -03C75A?style=flat&logo=Naver&logoColor=white"/> geniigrace@naver.com
+  <a href="https://instagram.com/dev.genii?igshid=NTc4MTIwNjQ2YQ=="><img src="https://img.shields.io/badge/@dev_genii-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/geniigrace@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/> <a href="https://geniilog.tistory.com"> <img src="https://img.shields.io/badge/geniilog.tistory.com-181717?style=flat&logo=Tistory&logoColor=white"/></a>
   <br><br>  * * *<br>
   <h3>:waning_gibbous_moon:Skills (Learn)</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
